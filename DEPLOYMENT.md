@@ -52,4 +52,3 @@ Because the server uses WebSockets and local file storage, it cannot be hosted o
 2.  Open the browser console (F12) to ensure it connected to the Render backend (no "Socket connection failed" errors).
 3.  Test creating a room and sending a message.
 
-Hope You Like The Project 

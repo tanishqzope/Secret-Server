@@ -27,7 +27,7 @@ Because the server uses WebSockets and local file storage, it cannot be hosted o
 
 > [!NOTE]
 > Render's free tier spins down after inactivity. The first request might take a minute to load.
-> **Important**: Files uploaded to the Render free tier (disk storage) are **ephemeral** and will be lost when the server restarts or deploys. For persistent storage, you would need AWS S3 or similar.
+> **Important**: Files uploaded to the Render free tier (disk storage) are **ephemeral** and will be lost when the server restarts or deploys. For persistent storage, you would need Azure or AWS S3 or similar.
 
 ---
 

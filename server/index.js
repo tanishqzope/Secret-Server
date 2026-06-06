@@ -17,7 +17,7 @@ app.use(express.json());
 // Setup Socket.io
 const io = new Server(server, {
     cors: {
-        origin: "*", // Allow all for now, lock down later if needed
+        origin: "*", // Allow all for now, lock down later if needed.
         methods: ["GET", "POST"]
     }
 });

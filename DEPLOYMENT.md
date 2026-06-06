@@ -51,3 +51,5 @@ Because the server uses WebSockets and local file storage, it cannot be hosted o
 1.  Open your Vercel deployment URL.
 2.  Open the browser console (F12) to ensure it connected to the Render backend (no "Socket connection failed" errors).
 3.  Test creating a room and sending a message.
+
+I hope you like it
